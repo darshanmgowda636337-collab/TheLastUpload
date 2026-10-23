@@ -181,7 +181,7 @@ The experiment's ultimate consequences form the heart of TheLastUpload.
 
 ---
 <br/>
-###
+
 ## ALGORITHMS & TECHNIQUES
 
 | Algorithm / Technique | Application in TheLastUpload |
@@ -272,7 +272,7 @@ Additional tools and assets may be incorporated as development progresses.
 
 ---
 
-#### 📂 PROJECT STRUCTURE
+#### PROJECT STRUCTURE
 
 
 TheLastUpload/
