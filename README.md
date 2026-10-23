@@ -92,7 +92,7 @@ The player must investigate a mysterious laboratory, discover hidden information
 |  Memory Preservation   | Can a person's memories survive outside their biological brain?                |
 |  Identity Verification | How can we determine whether a digital consciousness is the original person?   |
 |  Digital Security      | How can players investigate restricted systems and uncover hidden information? |
-| 🧬 Human Consciousness   | Does preserving memories preserve the person who experienced them?             |
+| 🧬Human Consciousness   | Does preserving memories preserve the person who experienced them?             |
 |  Ethical Decisions     | Should an experiment continue if the original subject might not survive?       |
 
 ---
@@ -143,7 +143,7 @@ The central mystery challenges players to consider whether a perfect digital cop
 
 ##  STORY & LORE
 
-### `01 / THE EXPERIMENT`
+### `01  THE EXPERIMENT`
 
 Inside a futuristic laboratory, researchers are conducting an experimental digital memory transfer.
 
@@ -153,7 +153,7 @@ The laboratory appears controlled, advanced, and scientifically precise.
 
 But something is wrong.
 
-### `02 / THE ANOMALY`
+### `02 THE ANOMALY`
 
 The experiment begins revealing inconsistencies.
 
@@ -163,7 +163,7 @@ The investigation raises a disturbing possibility:
 
 **The upload may preserve the memories without preserving the original person.**
 
-### `03 / THE INVESTIGATION`
+### `03  THE INVESTIGATION`
 
 Players enter the world of TheLastUpload through third-person gameplay.
 
@@ -171,7 +171,7 @@ They explore the environment, investigate important locations, interact with obj
 
 Each discovery contributes to understanding the experiment and its consequences.
 
-### `04 / THE FINAL QUESTION`
+### `04 THE FINAL QUESTION`
 
 As the truth emerges, the player must confront the central question of the story:
 
@@ -180,6 +180,16 @@ As the truth emerges, the player must confront the central question of the story
 The experiment's ultimate consequences form the heart of TheLastUpload.
 
 ---
+##| Algorithm / Technique          | Application in TheLastUpload                                                        |
+| ------------------------------ | ----------------------------------------------------------------------------------- |
+| **Finite State Machine (FSM)** | Manages game states such as Main Menu, Gameplay, Pause, and Game Over.              |
+| **Collision Detection**        | Detects interactions between the player and objects in the environment.             |
+| **Raycasting**                 | Identifies terminals, objects, and interactive elements in front of the player.     |
+| **Event-Driven Programming**   | Connects UI buttons, player interactions, and game events.                          |
+| **Puzzle-Solving Logic**       | Validates memory-hacking puzzles and determines whether the player has solved them. |
+| **Scene Transition Logic**     | Handles movement between the main menu, cinematic sequences, and gameplay scenes.   |
+| **Animation State Machine**    | Controls character animations such as idle, walking, and running.                   |
+
 
 ##  GAMEPLAY MECHANICS
 
