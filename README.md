@@ -564,7 +564,7 @@ This version is compact, professional, and suitable for your GitHub README.
 
 ### Option 1 — Clone the Repository
 
-```bash
+
 git clone <YOUR_GITHUB_REPOSITORY_URL>
 
 Navigate into the project directory:
