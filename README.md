@@ -142,7 +142,7 @@ The central mystery challenges players to consider whether a perfect digital cop
 
 ##  STORY & LORE
 
-### `01 / THE EXPERIMENT`
+### `01  THE EXPERIMENT`
 
 Inside a futuristic laboratory, researchers are conducting an experimental digital memory transfer.
 
@@ -152,7 +152,7 @@ The laboratory appears controlled, advanced, and scientifically precise.
 
 But something is wrong.
 
-### `02 / THE ANOMALY`
+### `02  THE ANOMALY`
 
 The experiment begins revealing inconsistencies.
 
@@ -162,7 +162,7 @@ The investigation raises a disturbing possibility:
 
 **The upload may preserve the memories without preserving the original person.**
 
-### `03 / THE INVESTIGATION`
+### `03  THE INVESTIGATION`
 
 Players enter the world of TheLastUpload through third-person gameplay.
 
@@ -170,7 +170,7 @@ They explore the environment, investigate important locations, interact with obj
 
 Each discovery contributes to understanding the experiment and its consequences.
 
-### `04 / THE FINAL QUESTION`
+### `04  THE FINAL QUESTION`
 
 As the truth emerges, the player must confront the central question of the story:
 
@@ -253,33 +253,35 @@ Additional tools and assets may be incorporated as development progresses.
 
 
 
-##  PROJECT STRUCTURE
+## 📂 PROJECT STRUCTURE
 
-The repository currently follows a Unity project structure.
-
-
+```text
 TheLastUpload/
-│
 ├── Assets/
-│   ├── Scenes/
-│   ├── Scripts/
-│   ├── Prefabs/
-│   ├── Materials/
-│   ├── Textures/
-│   ├── Models/
-│   ├── Animations/
-│   ├── Audio/
-│   └── UI/
+│   ├── Scenes/          # Main menu, laboratory, gameplay
+│   ├── Scripts/         # Player, UI, memory hacking, game logic
+│   ├── Prefabs/         # Reusable game objects
+│   ├── Models/          # Characters and 3D environments
+│   ├── Animations/      # Character and cinematic animations
+│   ├── Materials/       # Materials and textures
+│   ├── Audio/            # Music and sound effects
+│   └── UI/               # Menus, HUD, and puzzle interfaces
 │
-├── Packages/
-├── ProjectSettings/
-├── UserSettings/
-│
+├── Packages/             # Unity dependencies
+├── ProjectSettings/      # Unity project configuration
 ├── .gitignore
+├── LICENSE
 └── README.md
+```
+
+---
 
 
-*The directory names above illustrate the recommended organization. Update them to match the actual repository folders.*
+
+**Note:** This structure is a simplified representation. Actual folders may vary depending on the current Unity project.
+
+This version is compact, professional, and suitable for your GitHub README.
+```
 
 
 
