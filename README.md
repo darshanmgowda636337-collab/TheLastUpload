@@ -254,31 +254,36 @@ Additional tools and assets may be incorporated as development progresses.
 
 ---
 
-## PROJECT STRUCTURE
-
-The repository currently follows a Unity project structure.
+#### 📂 PROJECT STRUCTURE
 
 
 TheLastUpload/
-│
 ├── Assets/
-│   ├── Scenes/
-│   ├── Scripts/
-│   ├── Prefabs/
-│   ├── Materials/
-│   ├── Textures/
-│   ├── Models/
-│   ├── Animations/
-│   ├── Audio/
-│   └── UI/
+│   ├── Scenes/          # Main menu, laboratory, gameplay
+│   ├── Scripts/         # Player, UI, memory hacking, game logic
+│   ├── Prefabs/         # Reusable game objects
+│   ├── Models/          # Characters and 3D environments
+│   ├── Animations/      # Character and cinematic animations
+│   ├── Materials/       # Materials and textures
+│   ├── Audio/            # Music and sound effects
+│   └── UI/               # Menus, HUD, and puzzle interfaces
 │
-├── Packages/
-├── ProjectSettings/
-├── UserSettings/
-│
+├── Packages/             # Unity dependencies
+├── ProjectSettings/      # Unity project configuration
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
+
+---
+
+```
+
+**Note:** This structure is a simplified representation. Actual folders may vary depending on the current Unity project.
+
+This version is compact, professional, and suitable for your GitHub README.
+```
+
 
 *The directory names above illustrate the recommended organization. Update them to match the actual repository folders.*
 
