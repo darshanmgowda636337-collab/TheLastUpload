@@ -4,7 +4,7 @@
 
 <br/>
 
-# ⚡ THE LAST UPLOAD
+#  THE LAST UPLOAD
 
 ### `YOUR MEMORIES. YOUR IDENTITY. YOUR FINAL CHOICE.`
 
@@ -12,11 +12,11 @@
 
 <br/>
 
-[ 🎮 GAME OVERVIEW ](#-game-overview) •
-[ 🧠 THE PROBLEM ](#-the-problem-statement) •
-[ 💡 OUR SOLUTION ](#-our-solution) •
-[ 🕹️ GAMEPLAY ](#-gameplay-mechanics) •
-[ ⚙️ TECHNOLOGY ](#-technology-stack)
+[  GAME OVERVIEW ](#-game-overview) •
+[ THE PROBLEM ](#-the-problem-statement) •
+[ OUR SOLUTION ](#-our-solution) •
+[  GAMEPLAY ](#-gameplay-mechanics) •
+[  TECHNOLOGY ](#-technology-stack)
 
 <br/>
 
@@ -27,9 +27,8 @@
 
 </div>
 
----
 
-## 📡 TABLE OF CONTENTS
+##  TABLE OF CONTENTS
 
 | No. | Section                                      | Description                        |
 | :-: | -------------------------------------------- | ---------------------------------- |
@@ -69,9 +68,9 @@ Players explore the environment, investigate digital traces, interact with the w
 
 </div>
 
----
 
-## 🧠 THE PROBLEM STATEMENT
+
+##  THE PROBLEM STATEMENT
 
 ### The Challenge: Memory, Identity & Digital Consciousness
 
@@ -89,15 +88,15 @@ The player must investigate a mysterious laboratory, discover hidden information
 
 | Challenge                | Description                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------ |
-| 🧠 Memory Preservation   | Can a person's memories survive outside their biological brain?                |
-| 🪞 Identity Verification | How can we determine whether a digital consciousness is the original person?   |
-| 🔐 Digital Security      | How can players investigate restricted systems and uncover hidden information? |
-| 🧬 Human Consciousness   | Does preserving memories preserve the person who experienced them?             |
-| ⚖️ Ethical Decisions     | Should an experiment continue if the original subject might not survive?       |
+|  Memory Preservation   | Can a person's memories survive outside their biological brain?                |
+|  Identity Verification | How can we determine whether a digital consciousness is the original person?   |
+|  Digital Security      | How can players investigate restricted systems and uncover hidden information? |
+|  Human Consciousness   | Does preserving memories preserve the person who experienced them?             |
+|  Ethical Decisions     | Should an experiment continue if the original subject might not survive?       |
 
----
 
-## 💡 OUR SOLUTION
+
+##  OUR SOLUTION
 
 ### A Story-Driven Cyberpunk Investigation Game
 
@@ -139,9 +138,9 @@ The central mystery challenges players to consider whether a perfect digital cop
 
 </div>
 
----
 
-## 🎬 STORY & LORE
+
+##  STORY & LORE
 
 ### `01 / THE EXPERIMENT`
 
@@ -181,23 +180,23 @@ The experiment's ultimate consequences form the heart of TheLastUpload.
 
 ---
 
-## 🕹️ GAMEPLAY MECHANICS
+##  GAMEPLAY MECHANICS
 
 | Mechanic                      | Purpose                                               | Player Experience                                          |
 | ----------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- |
-| 🚶 Third-Person Movement      | Navigate the game world                               | Explore environments from an over-the-shoulder perspective |
-| 🏙️ Environmental Exploration | Discover important locations                          | Investigate the laboratory and futuristic surroundings     |
-| 🔎 Object Interaction         | Examine objects and environmental clues               | Discover information relevant to the story                 |
-| 🧩 Memory Puzzles             | Reconstruct fragmented information                    | Connect clues and investigate digital anomalies            |
-| 💻 Digital Investigation      | Access fictional records and experimental information | Learn more about the memory-transfer system                |
-| 🎥 Cinematic Sequences        | Present important narrative moments                   | Experience the story through directed scenes               |
-| 🧠 Narrative Discovery        | Connect evidence to the central mystery               | Understand the consequences of the experiment              |
+|  Third-Person Movement      | Navigate the game world                               | Explore environments from an over-the-shoulder perspective |
+|  Environmental Exploration | Discover important locations                          | Investigate the laboratory and futuristic surroundings     |
+|  Object Interaction         | Examine objects and environmental clues               | Discover information relevant to the story                 |
+|  Memory Puzzles             | Reconstruct fragmented information                    | Connect clues and investigate digital anomalies            |
+|  Digital Investigation      | Access fictional records and experimental information | Learn more about the memory-transfer system                |
+|  Cinematic Sequences        | Present important narrative moments                   | Experience the story through directed scenes               |
+|  Narrative Discovery        | Connect evidence to the central mystery               | Understand the consequences of the experiment              |
 
 *Features listed here describe the intended gameplay design. Individual mechanics are subject to implementation and testing during development.*
 
----
 
-## 🎮 PLAYER EXPERIENCE
+
+##  PLAYER EXPERIENCE
 
 The intended experience follows a progression from curiosity to investigation and discovery.
 
@@ -219,7 +218,7 @@ The intended experience follows a progression from curiosity to investigation an
 
 ---
 
-## 🌆 VISUAL DIRECTION
+##  VISUAL DIRECTION
 
 TheLastUpload uses a futuristic cyberpunk aesthetic built around advanced technology, dramatic lighting, and mysterious environments.
 
@@ -238,7 +237,7 @@ The visual direction should reinforce the contrast between technological perfect
 
 ---
 
-## ⚙️ TECHNOLOGY STACK
+##  TECHNOLOGY STACK
 
 | Technology             | Purpose                                                 |
 | ---------------------- | ------------------------------------------------------- |
@@ -252,13 +251,13 @@ The visual direction should reinforce the contrast between technological perfect
 
 Additional tools and assets may be incorporated as development progresses.
 
----
 
-## 📂 PROJECT STRUCTURE
+
+##  PROJECT STRUCTURE
 
 The repository currently follows a Unity project structure.
 
-```text
+
 TheLastUpload/
 │
 ├── Assets/
@@ -278,13 +277,13 @@ TheLastUpload/
 │
 ├── .gitignore
 └── README.md
-```
+
 
 *The directory names above illustrate the recommended organization. Update them to match the actual repository folders.*
 
----
 
-## 🚀 INSTALLATION & SETUP
+
+##  INSTALLATION & SETUP
 
 ### Prerequisites
 
@@ -319,7 +318,7 @@ cd TheLastUpload
 
 ---
 
-## 🛠️ DEVELOPMENT ROADMAP
+## DEVELOPMENT ROADMAP
 
 | Feature                    | Status                   |
 | -------------------------- | ------------------------ |
@@ -338,7 +337,7 @@ cd TheLastUpload
 
 ---
 
-## 👥 TEAM
+##  TEAM
 
 **TheLastUpload — Game Development Team**
 
@@ -354,9 +353,9 @@ Built collaboratively during a gameathon, combining game development, environmen
 
 Add team members and their respective contributions here.
 
----
 
-## 🔮 FUTURE POSSIBILITIES
+
+##  FUTURE POSSIBILITIES
 
 The project can evolve through additional features such as:
 
@@ -370,9 +369,9 @@ The project can evolve through additional features such as:
 
 These possibilities depend on development time and project priorities.
 
----
 
-## 📜 ASSET CREDITS & LICENSE
+
+##  ASSET CREDITS & LICENSE
 
 This project may incorporate third-party models, textures, animations, audio, and other resources.
 
