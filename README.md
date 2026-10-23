@@ -178,6 +178,46 @@ As the truth emerges, the player must confront the central question of the story
 
 The experiment's ultimate consequences form the heart of TheLastUpload.
 
+TheLastUpload uses core game-programming techniques to manage player interactions, character animations, memory-hacking puzzles, and gameplay progression. These techniques connect player input with game logic to create an interactive cyberpunk experience.
+
+ Algorithms & Techniques
+Algorithm / Technique	Application in TheLastUpload
+Finite State Machine (FSM)	Manages game states such as Main Menu, Gameplay, Pause, and Game Over.
+Collision Detection	Detects contact between the player and objects in the game environment.
+Raycasting	Identifies interactive objects, terminals, and other elements in front of the player.
+Event-Driven Programming	Connects UI buttons, player interactions, and gameplay events.
+Puzzle-Solving Logic	Validates memory-hacking puzzle inputs and determines whether challenges are solved.
+Scene Transition Logic	Manages transitions between the main menu, cinematic sequences, and gameplay scenes.
+Animation State Machine	Controls character animations such as idle, walking, and running.
+Gameplay Logic Flow
+
+The core gameplay follows a structured sequence, from player input to interaction and progression.
+
+┌──────────────────────────┐
+│       PLAYER INPUT       │
+└────────────┬─────────────┘
+             ▼
+┌──────────────────────────┐
+│  INTERACTION DETECTION   │
+└────────────┬─────────────┘
+             ▼
+┌──────────────────────────┐
+│   GAME LOGIC PROCESSING  │
+└────────────┬─────────────┘
+             ▼
+┌──────────────────────────┐
+│  VALIDATION & FEEDBACK   │
+└────────────┬─────────────┘
+             ▼
+┌──────────────────────────┐
+│    GAME STATE UPDATE     │
+└────────────┬─────────────┘
+             ▼
+┌──────────────────────────┐
+│ STORY & GAMEPLAY         │
+│ PROGRESSION              │
+└──────────────────────────┘
+
 ---
 
 ##  GAMEPLAY MECHANICS
@@ -253,7 +293,7 @@ Additional tools and assets may be incorporated as development progresses.
 
 
 
-## 📂 PROJECT STRUCTURE
+##  PROJECT STRUCTURE
 
 ```text
 TheLastUpload/
