@@ -272,7 +272,7 @@ Additional tools and assets may be incorporated as development progresses.
 
 ---
 
-#### ## 📂 PROJECT STRUCTURE
+####  PROJECT STRUCTURE
 
 ```text
 TheLastUpload/
