@@ -4,53 +4,132 @@
 
 <br/>
 
-#  THE LAST UPLOAD
+THE LAST UPLOAD
 
-### `YOUR MEMORIES. YOUR IDENTITY. YOUR FINAL CHOICE.`
+YOUR MEMORIES. YOUR IDENTITY. YOUR FINAL CHOICE.
 
-**A CYBERPUNK SCI-FI GAME ABOUT MEMORY, IDENTITY, AND DIGITAL CONSCIOUSNESS**
-
-<br/>
-
-[  GAME OVERVIEW ](#-game-overview) •
-[ THE PROBLEM ](#-the-problem-statement) •
-[ OUR SOLUTION ](#-our-solution) •
-[  GAMEPLAY ](#-gameplay-mechanics) •
-[  TECHNOLOGY ](#-technology-stack)
+A CYBERPUNK SCI-FI GAME ABOUT MEMORY, IDENTITY, AND DIGITAL CONSCIOUSNESS
 
 <br/>
 
-![Genre](https://img.shields.io/badge/GENRE-Cyberpunk-ff00cc?style=for-the-badge)
-![Engine](https://img.shields.io/badge/ENGINE-Unity-00e5ff?style=for-the-badge)
-![Platform](https://img.shields.io/badge/PLATFORM-PC-8a2be2?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00ff99?style=for-the-badge)
+  GAME OVERVIEW  •
+ THE PROBLEM  •
+ OUR SOLUTION  •
+  GAMEPLAY  •
+  TECHNOLOGY 
+
+<br/>
+
+
+
+
+
 
 </div>
 
+TABLE OF CONTENTS
 
-##  TABLE OF CONTENTS
+No.
 
-| No. | Section                                      | Description                        |
-| :-: | -------------------------------------------- | ---------------------------------- |
-|  01 | [Game Overview](#-game-overview)             | Enter the world of TheLastUpload   |
-|  02 | [Problem Statement](#-the-problem-statement) | The challenge we are addressing    |
-|  03 | [Our Solution](#-our-solution)               | Our approach to the challenge      |
-|  04 | [Story & Lore](#-story--lore)                | Discover the experiment            |
-|  05 | [Gameplay Mechanics](#-gameplay-mechanics)   | Explore, interact, and investigate |
-|  06 | [Player Experience](#-player-experience)     | What players will experience       |
-|  07 | [Technology Stack](#-technology-stack)       | Tools used to build the game       |
-|  08 | [Project Structure](#-project-structure)     | Repository organization            |
-|  09 | [Installation](#-installation--setup)        | Get the project running            |
-|  10 | [Development Roadmap](#-development-roadmap) | Current and planned features       |
-|  11 | [Team](#-team)                               | The people behind the project      |
+Section
 
+Description
 
+01
 
-##  GAME OVERVIEW
+Game Overview
 
-> **In a future where memories can be uploaded, what happens when the original person is lost?**
+Enter the world of TheLastUpload
 
-**TheLastUpload** is a cyberpunk-inspired, third-person science-fiction game set in a futuristic laboratory and a technologically advanced city.
+02
+
+Problem Statement
+
+The challenge we are addressing
+
+03
+
+Our Solution
+
+Our approach to the challenge
+
+04
+
+Story & Lore
+
+Discover the experiment
+
+05
+
+Algorithms & Game Logic
+
+The systems behind interactions and progression
+
+06
+
+Gameplay Mechanics
+
+Explore, interact, and investigate
+
+07
+
+Player Experience
+
+The intended player journey
+
+08
+
+Visual Direction
+
+The game's cyberpunk aesthetic
+
+09
+
+Technology Stack
+
+Tools used to build the game
+
+10
+
+Project Structure
+
+Repository organization
+
+11
+
+Installation & Setup
+
+Get the project running
+
+12
+
+Development Roadmap
+
+Current and planned features
+
+13
+
+Team
+
+The people behind the project
+
+14
+
+Future Possibilities
+
+Potential future improvements
+
+15
+
+Asset Credits & License
+
+Third-party assets and licensing
+
+GAME OVERVIEW
+
+In a future where memories can be uploaded, what happens when the original person is lost?
+
+TheLastUpload is a cyberpunk-inspired, third-person science-fiction game set in a futuristic laboratory and a technologically advanced city.
 
 The story revolves around an experimental process capable of transferring human memories into a digital system.
 
@@ -60,45 +139,61 @@ Players explore the environment, investigate digital traces, interact with the w
 
 <div align="center">
 
-### `MEMORIES ARE DATA.`
+MEMORIES ARE DATA.
 
-### `IDENTITY IS FRAGILE.`
+IDENTITY IS FRAGILE.
 
-### `EVERY UPLOAD LEAVES A TRACE.`
+EVERY UPLOAD LEAVES A TRACE.
 
 </div>
 
 
 
-##  THE PROBLEM STATEMENT
+THE PROBLEM STATEMENT
 
-### The Challenge: Memory, Identity & Digital Consciousness
+The Challenge: Memory, Identity & Digital Consciousness
 
 As technology advances, the boundary between human consciousness and digital existence becomes increasingly unclear.
 
 Imagine a world where human memories can be extracted, stored, modified, and transferred into artificial systems.
 
-**But does transferring someone's memories mean that the person themselves survives?**
+But does transferring someone's memories mean that the person themselves survives?
 
 The challenge is to explore this question through an interactive game that combines cyberpunk storytelling, environmental investigation, digital puzzles, and third-person exploration.
 
 The player must investigate a mysterious laboratory, discover hidden information, understand the consequences of experimental memory transfer, and determine what it truly means to preserve a human identity.
 
-### Key Challenges
+Key Challenges
 
-| Challenge                | Description                                                                    |
-| ------------------------ | ------------------------------------------------------------------------------ |
-|  Memory Preservation   | Can a person's memories survive outside their biological brain?                |
-|  Identity Verification | How can we determine whether a digital consciousness is the original person?   |
-|  Digital Security      | How can players investigate restricted systems and uncover hidden information? |
-|  Human Consciousness   | Does preserving memories preserve the person who experienced them?             |
-|  Ethical Decisions     | Should an experiment continue if the original subject might not survive?       |
+Challenge
+
+Description
+
+Memory Preservation
+
+Can a person's memories survive outside their biological brain?
+
+Identity Verification
+
+How can we determine whether a digital consciousness is the original person?
+
+Digital Security
+
+How can players investigate restricted systems and uncover hidden information?
+
+Human Consciousness
+
+Does preserving memories preserve the person who experienced them?
+
+Ethical Decisions
+
+Should an experiment continue if the original subject might not survive?
 
 
 
-##  OUR SOLUTION
+OUR SOLUTION
 
-### A Story-Driven Cyberpunk Investigation Game
+A Story-Driven Cyberpunk Investigation Game
 
 TheLastUpload transforms these complex questions into a playable experience.
 
@@ -108,41 +203,41 @@ Players move through a futuristic environment, interact with objects, examine di
 
 Our solution combines five core elements:
 
-**01 — IMMERSIVE ENVIRONMENT**
+01 — IMMERSIVE ENVIRONMENT
 
 A futuristic laboratory and cyberpunk city create an atmospheric setting in which players discover the world through exploration.
 
-**02 — ENVIRONMENTAL STORYTELLING**
+02 — ENVIRONMENTAL STORYTELLING
 
 Laboratory equipment, classified records, visual clues, and interactive objects gradually reveal the truth behind the experiment.
 
-**03 — MEMORY INVESTIGATION**
+03 — MEMORY INVESTIGATION
 
 Players examine fragmented information and connect clues to understand the relationship between a human subject and a digital reconstruction.
 
-**04 — INTERACTIVE GAMEPLAY**
+04 — INTERACTIVE GAMEPLAY
 
 Third-person movement, environmental interaction, and puzzle-solving turn the narrative into an active experience.
 
-**05 — ETHICAL STORYTELLING**
+05 — ETHICAL STORYTELLING
 
 The central mystery challenges players to consider whether a perfect digital copy can truly replace a human being.
 
 <div align="center">
 
-### OUR CORE IDEA
+OUR CORE IDEA
 
-**We don't just tell players about the loss of human identity.**
+We don't just tell players about the loss of human identity.
 
-**We let them investigate it.**
+We let them investigate it.
 
 </div>
 
 
 
-##  STORY & LORE
+STORY & LORE
 
-### `01  THE EXPERIMENT`
+01  THE EXPERIMENT
 
 Inside a futuristic laboratory, researchers are conducting an experimental digital memory transfer.
 
@@ -152,7 +247,7 @@ The laboratory appears controlled, advanced, and scientifically precise.
 
 But something is wrong.
 
-### `02  THE ANOMALY`
+02  THE ANOMALY
 
 The experiment begins revealing inconsistencies.
 
@@ -160,9 +255,9 @@ Digital records contain unexplained traces. Information appears incomplete. The 
 
 The investigation raises a disturbing possibility:
 
-**The upload may preserve the memories without preserving the original person.**
+The upload may preserve the memories without preserving the original person.
 
-### `03  THE INVESTIGATION`
+03  THE INVESTIGATION
 
 Players enter the world of TheLastUpload through third-person gameplay.
 
@@ -170,132 +265,268 @@ They explore the environment, investigate important locations, interact with obj
 
 Each discovery contributes to understanding the experiment and its consequences.
 
-### `04  THE FINAL QUESTION`
+04  THE FINAL QUESTION
 
 As the truth emerges, the player must confront the central question of the story:
 
-**If a digital system remembers everything you remember, is it really you?**
+If a digital system remembers everything you remember, is it really you?
 
 The experiment's ultimate consequences form the heart of TheLastUpload.
 
+ALGORITHMS & GAME LOGIC
+
 TheLastUpload uses core game-programming techniques to manage player interactions, character animations, memory-hacking puzzles, and gameplay progression. These techniques connect player input with game logic to create an interactive cyberpunk experience.
 
- Algorithms & Techniques
-Algorithm / Technique	Application in TheLastUpload
-Finite State Machine (FSM)	Manages game states such as Main Menu, Gameplay, Pause, and Game Over.
-Collision Detection	Detects contact between the player and objects in the game environment.
-Raycasting	Identifies interactive objects, terminals, and other elements in front of the player.
-Event-Driven Programming	Connects UI buttons, player interactions, and gameplay events.
-Puzzle-Solving Logic	Validates memory-hacking puzzle inputs and determines whether challenges are solved.
-Scene Transition Logic	Manages transitions between the main menu, cinematic sequences, and gameplay scenes.
-Animation State Machine	Controls character animations such as idle, walking, and running.
+Algorithms & Techniques
+
+Algorithm / Technique
+
+Application in TheLastUpload
+
+Finite State Machine (FSM)
+
+Manages game states such as Main Menu, Gameplay, Pause, and Game Over.
+
+Collision Detection
+
+Detects contact between the player and objects in the game environment.
+
+Raycasting
+
+Identifies interactive objects, terminals, and other elements in front of the player.
+
+Event-Driven Programming
+
+Connects UI buttons, player interactions, and gameplay events.
+
+Puzzle-Solving Logic
+
+Validates memory-hacking puzzle inputs and determines whether challenges are solved.
+
+Scene Transition Logic
+
+Manages transitions between the main menu, cinematic sequences, and gameplay scenes.
+
+Animation State Machine
+
+Controls character animations such as idle, walking, and running.
+
 Gameplay Logic Flow
 
 The core gameplay follows a structured sequence, from player input to interaction and progression.
 
-┌──────────────────────────┐
-│       PLAYER INPUT       │
-└────────────┬─────────────┘
-             ▼
-┌──────────────────────────┐
-│  INTERACTION DETECTION   │
-└────────────┬─────────────┘
-             ▼
-┌──────────────────────────┐
-│   GAME LOGIC PROCESSING  │
-└────────────┬─────────────┘
-             ▼
-┌──────────────────────────┐
-│  VALIDATION & FEEDBACK   │
-└────────────┬─────────────┘
-             ▼
-┌──────────────────────────┐
-│    GAME STATE UPDATE     │
-└────────────┬─────────────┘
-             ▼
-┌──────────────────────────┐
-│ STORY & GAMEPLAY         │
-│ PROGRESSION              │
-└──────────────────────────┘
+PLAYER INPUT
+     ↓
+INTERACTION DETECTION
+     ↓
+GAME LOGIC PROCESSING
+     ↓
+VALIDATION & FEEDBACK
+     ↓
+GAME STATE UPDATE
+     ↓
+STORY & GAMEPLAY PROGRESSION
 
----
+Example: Memory-Hacking Interaction
 
-##  GAMEPLAY MECHANICS
+Approach: The player approaches an interactive terminal.
 
-| Mechanic                      | Purpose                                               | Player Experience                                          |
-| ----------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- |
-|  Third-Person Movement      | Navigate the game world                               | Explore environments from an over-the-shoulder perspective |
-|  Environmental Exploration | Discover important locations                          | Investigate the laboratory and futuristic surroundings     |
-|  Object Interaction         | Examine objects and environmental clues               | Discover information relevant to the story                 |
-|  Memory Puzzles             | Reconstruct fragmented information                    | Connect clues and investigate digital anomalies            |
-|  Digital Investigation      | Access fictional records and experimental information | Learn more about the memory-transfer system                |
-|  Cinematic Sequences        | Present important narrative moments                   | Experience the story through directed scenes               |
-|  Narrative Discovery        | Connect evidence to the central mystery               | Understand the consequences of the experiment              |
+Detection: The game detects the terminal through raycasting or collision-based interaction, depending on the implementation.
 
-*Features listed here describe the intended gameplay design. Individual mechanics are subject to implementation and testing during development.*
+Activation: The player activates the terminal using the interaction key.
+
+Interface: The memory-hacking puzzle interface appears.
+
+Puzzle Solving: The player analyzes the puzzle and enters a solution.
+
+Validation: The game checks whether the submitted solution is correct.
+
+Progression: On success, the game provides feedback and advances gameplay or story progression.
+
+Implementation note: This section describes the intended game architecture. Verify each technique against the current Unity scripts before claiming it is fully implemented.
+
+GAMEPLAY MECHANICS
+
+Mechanic
+
+Purpose
+
+Player Experience
+
+Third-Person Movement
+
+Navigate the game world
+
+Explore environments from an over-the-shoulder perspective
+
+Environmental Exploration
+
+Discover important locations
+
+Investigate the laboratory and futuristic surroundings
+
+Object Interaction
+
+Examine objects and environmental clues
+
+Discover information relevant to the story
+
+Memory Puzzles
+
+Reconstruct fragmented information
+
+Connect clues and investigate digital anomalies
+
+Digital Investigation
+
+Access fictional records and experimental information
+
+Learn more about the memory-transfer system
+
+Cinematic Sequences
+
+Present important narrative moments
+
+Experience the story through directed scenes
+
+Narrative Discovery
+
+Connect evidence to the central mystery
+
+Understand the consequences of the experiment
+
+Features listed here describe the intended gameplay design. Individual mechanics are subject to implementation and testing during development.
 
 
 
-##  PLAYER EXPERIENCE
+PLAYER EXPERIENCE
 
 The intended experience follows a progression from curiosity to investigation and discovery.
 
-| Stage                   | Experience                                  | Objective                                 |
-| ----------------------- | ------------------------------------------- | ----------------------------------------- |
-| **01 — Arrival**        | Enter the futuristic environment            | Establish the setting and atmosphere      |
-| **02 — Discovery**      | Encounter the laboratory and its equipment  | Understand the experiment's purpose       |
-| **03 — Investigation**  | Explore objects, records, and clues         | Find inconsistencies in the system        |
-| **04 — Reconstruction** | Solve memory-related puzzles                | Connect fragmented information            |
-| **05 — Revelation**     | Discover the implications of the experiment | Confront the question of digital identity |
+Stage
 
-### Design Philosophy
+Experience
 
-* **Immersion first:** The environment should communicate the story.
-* **Meaningful interaction:** Discoveries should contribute to understanding the mystery.
-* **Cinematic presentation:** Important narrative moments should feel deliberate and visually engaging.
-* **Accessible controls:** Players should be able to understand movement and interaction without unnecessary complexity.
-* **Narrative purpose:** Gameplay mechanics should support the central theme of memory and identity.
+Objective
 
----
+01 — Arrival
 
-##  VISUAL DIRECTION
+Enter the futuristic environment
+
+Establish the setting and atmosphere
+
+02 — Discovery
+
+Encounter the laboratory and its equipment
+
+Understand the experiment's purpose
+
+03 — Investigation
+
+Explore objects, records, and clues
+
+Find inconsistencies in the system
+
+04 — Reconstruction
+
+Solve memory-related puzzles
+
+Connect fragmented information
+
+05 — Revelation
+
+Discover the implications of the experiment
+
+Confront the question of digital identity
+
+Design Philosophy
+
+Immersion first: The environment should communicate the story.
+
+Meaningful interaction: Discoveries should contribute to understanding the mystery.
+
+Cinematic presentation: Important narrative moments should feel deliberate and visually engaging.
+
+Accessible controls: Players should be able to understand movement and interaction without unnecessary complexity.
+
+Narrative purpose: Gameplay mechanics should support the central theme of memory and identity.
+
+VISUAL DIRECTION
 
 TheLastUpload uses a futuristic cyberpunk aesthetic built around advanced technology, dramatic lighting, and mysterious environments.
 
-### Visual Identity
+Visual Identity
 
-| Element         | Direction                                                                  |
-| --------------- | -------------------------------------------------------------------------- |
-| Environment     | Futuristic laboratory and technologically advanced city                    |
-| Lighting        | Atmospheric illumination and dramatic shadows                              |
-| Interface       | Digital panels, classified records, and futuristic system displays         |
-| Cinematics      | Character-focused scenes with cinematic composition                        |
-| Color Direction | Dark environments with restrained cyan, magenta, and electric-blue accents |
-| Mood            | Mysterious, futuristic, immersive, and emotionally unsettling              |
+Element
+
+Direction
+
+Environment
+
+Futuristic laboratory and technologically advanced city
+
+Lighting
+
+Atmospheric illumination and dramatic shadows
+
+Interface
+
+Digital panels, classified records, and futuristic system displays
+
+Cinematics
+
+Character-focused scenes with cinematic composition
+
+Color Direction
+
+Dark environments with restrained cyan, magenta, and electric-blue accents
+
+Mood
+
+Mysterious, futuristic, immersive, and emotionally unsettling
 
 The visual direction should reinforce the contrast between technological perfection and the uncertainty of human consciousness.
 
----
+TECHNOLOGY STACK
 
-##  TECHNOLOGY STACK
+Technology
 
-| Technology             | Purpose                                                 |
-| ---------------------- | ------------------------------------------------------- |
-| **Unity**              | Game engine and real-time rendering                     |
-| **C#**                 | Gameplay logic, interaction systems, and game mechanics |
-| **Blender**            | 3D modeling and animation workflows                     |
-| **Mixamo**             | Character rigging and animation where applicable        |
-| **Git & GitHub**       | Version control and collaborative development           |
-| **Unity Input System** | Player input and control handling                       |
-| **Unity UI**           | Menus, interface elements, and gameplay displays        |
+Purpose
+
+Unity
+
+Game engine and real-time rendering
+
+C#
+
+Gameplay logic, interaction systems, and game mechanics
+
+Blender
+
+3D modeling and animation workflows
+
+Mixamo
+
+Character rigging and animation where applicable
+
+Git & GitHub
+
+Version control and collaborative development
+
+Unity Input System
+
+Player input and control handling
+
+Unity UI
+
+Menus, interface elements, and gameplay displays
 
 Additional tools and assets may be incorporated as development progresses.
 
 
 
-##  PROJECT STRUCTURE
+PROJECT STRUCTURE
 
-```text
 TheLastUpload/
 ├── Assets/
 │   ├── Scenes/          # Main menu, laboratory, gameplay
@@ -312,16 +543,13 @@ TheLastUpload/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-```
-
----
 
 
 
-**Note:** This structure is a simplified representation. Actual folders may vary depending on the current Unity project.
+Note: This structure is a simplified representation. Actual folders may vary depending on the current Unity project.
 
 This version is compact, professional, and suitable for your GitHub README.
-```
+
 
 
 
@@ -338,82 +566,122 @@ This version is compact, professional, and suitable for your GitHub README.
 
 ```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
-```
 
 Navigate into the project directory:
 
-```bash
 cd TheLastUpload
-```
 
-### Option 2 — Open in Unity
+Option 2 — Open in Unity
 
-1. Launch Unity Hub.
-2. Select **Add Project** or **Add project from disk**.
-3. Select the cloned `TheLastUpload` folder.
-4. Open the project using its compatible Unity Editor version.
-5. Wait for Unity to import the assets.
-6. Open the main gameplay scene.
-7. Press **Play** to test the project.
+Launch Unity Hub.
 
-**Important:** Replace the placeholder repository URL with your actual GitHub repository URL. The main scene name and exact Unity version should also be documented once confirmed.
+Select Add Project or Add project from disk.
 
----
+Select the cloned TheLastUpload folder.
 
-## DEVELOPMENT ROADMAP
+Open the project using its compatible Unity Editor version.
 
-| Feature                    | Status                   |
-| -------------------------- | ------------------------ |
-| Unity project setup        | In development           |
-| Third-person character     | In development           |
-| Player movement            | In development           |
-| Futuristic environment     | In development           |
-| Main menu and UI           | In development           |
-| Opening cinematic          | Planned / in development |
-| Environmental interactions | Planned / in development |
-| Memory puzzle system       | Planned / in development |
-| Narrative progression      | Planned                  |
-| Final gameplay build       | Planned                  |
+Wait for Unity to import the assets.
 
-*Update these statuses to reflect the actual implementation. Avoid marking a feature complete until it has been tested.*
+Open the main gameplay scene.
 
----
+Press Play to test the project.
 
-##  TEAM
+Important: Replace the placeholder repository URL with your actual GitHub repository URL. The main scene name and exact Unity version should also be documented once confirmed.
 
-**TheLastUpload — Game Development Team**
+DEVELOPMENT ROADMAP
+
+Feature
+
+Status
+
+Unity project setup
+
+In development
+
+Third-person character
+
+In development
+
+Player movement
+
+In development
+
+Futuristic environment
+
+In development
+
+Main menu and UI
+
+In development
+
+Opening cinematic
+
+Planned / in development
+
+Environmental interactions
+
+Planned / in development
+
+Memory puzzle system
+
+Planned / in development
+
+Narrative progression
+
+Planned
+
+Final gameplay build
+
+Planned
+
+Update these statuses to reflect the actual implementation. Avoid marking a feature complete until it has been tested.
+
+TEAM
+
+TheLastUpload — Game Development Team
 
 Built collaboratively during a gameathon, combining game development, environment design, storytelling, character workflows, and interface development.
 
-### Contributions
+Contributions
 
-* Game concept and narrative design
-* Unity environment and gameplay development
-* Character modeling and animation
-* User interface and visual design
-* Version control and project integration
+Game concept and narrative design
+
+Unity environment and gameplay development
+
+Character modeling and animation
+
+User interface and visual design
+
+Version control and project integration
 
 Add team members and their respective contributions here.
 
 
 
-##  FUTURE POSSIBILITIES
+FUTURE POSSIBILITIES
 
 The project can evolve through additional features such as:
 
-* More interactive laboratory systems.
-* Expanded memory reconstruction puzzles.
-* Additional cinematic sequences.
-* Deeper environmental storytelling.
-* More advanced character animation.
-* A stronger narrative conclusion.
-* Improved performance and gameplay polish.
+More interactive laboratory systems.
+
+Expanded memory reconstruction puzzles.
+
+Additional cinematic sequences.
+
+Deeper environmental storytelling.
+
+More advanced character animation.
+
+A stronger narrative conclusion.
+
+Improved performance and gameplay polish.
 
 These possibilities depend on development time and project priorities.
 
 
 
-##  ASSET CREDITS & LICENSE
+ASSET CREDITS & LICENSE
 
 This project may incorporate third-party models, textures, animations, audio, and other resources.
 
@@ -423,18 +691,16 @@ Before distributing the game, document the assets used, verify the required perm
 
 Add the project's actual license information here once the team has selected a license.
 
----
-
 <div align="center">
 
-# `END OF TRANSMISSION`
+END OF TRANSMISSION
 
-### THE SYSTEM REMEMBERS EVERYTHING.
+THE SYSTEM REMEMBERS EVERYTHING.
 
-### BUT DOES IT REMEMBER YOU?
+BUT DOES IT REMEMBER YOU?
 
-**THE LAST UPLOAD**
+THE LAST UPLOAD
 
-`MEMORY // IDENTITY // CONSCIOUSNESS`
+MEMORY // IDENTITY // CONSCIOUSNESS
 
 </div>
