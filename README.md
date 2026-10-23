@@ -272,9 +272,9 @@ Additional tools and assets may be incorporated as development progresses.
 
 ---
 
-#### PROJECT STRUCTURE
+#### ## 📂 PROJECT STRUCTURE
 
-
+```text
 TheLastUpload/
 ├── Assets/
 │   ├── Scenes/          # Main menu, laboratory, gameplay
@@ -291,6 +291,15 @@ TheLastUpload/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+```
+
+---
+
+```
+
+**Note:** This structure is a simplified representation. Actual folders may vary depending on the current Unity project.
+
+This version is compact, professional, and suitable for your GitHub README.
 ```
 
 ---
