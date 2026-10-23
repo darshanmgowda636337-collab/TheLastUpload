@@ -92,7 +92,7 @@ The player must investigate a mysterious laboratory, discover hidden information
 |  Memory Preservation   | Can a person's memories survive outside their biological brain?                |
 |  Identity Verification | How can we determine whether a digital consciousness is the original person?   |
 |  Digital Security      | How can players investigate restricted systems and uncover hidden information? |
-| 🧬Human Consciousness   | Does preserving memories preserve the person who experienced them?             |
+| Human Consciousness   | Does preserving memories preserve the person who experienced them?             |
 |  Ethical Decisions     | Should an experiment continue if the original subject might not survive?       |
 
 ---
@@ -190,7 +190,7 @@ The experiment's ultimate consequences form the heart of TheLastUpload.
 | **Scene Transition Logic**     | Handles movement between the main menu, cinematic sequences, and gameplay scenes.   |
 | **Animation State Machine**    | Controls character animations such as idle, walking, and running.                   |
 
-
+---
 ##  GAMEPLAY MECHANICS
 
 | Mechanic                      | Purpose                                               | Player Experience                                          |
