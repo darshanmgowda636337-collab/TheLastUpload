@@ -256,7 +256,7 @@ The visual direction should reinforce the contrast between technological perfect
 
 ---
 
-## ⚙️ TECHNOLOGY STACK
+##  TECHNOLOGY STACK
 
 | Technology             | Purpose                                                 |
 | ---------------------- | ------------------------------------------------------- |
@@ -297,24 +297,13 @@ TheLastUpload/
 
 ```
 
-**Note:** This structure is a simplified representation. Actual folders may vary depending on the current Unity project.
-
-This version is compact, professional, and suitable for your GitHub README.
 ```
 
 ---
 
 ```
 
-**Note:** This structure is a simplified representation. Actual folders may vary depending on the current Unity project.
 
-This version is compact, professional, and suitable for your GitHub README.
-```
-
-
-*The directory names above illustrate the recommended organization. Update them to match the actual repository folders.*
-
----
 
 ##  INSTALLATION & SETUP
 
