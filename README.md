@@ -181,15 +181,16 @@ The experiment's ultimate consequences form the heart of TheLastUpload.
 
 ---
 <br/>
+###
 ##| Algorithm / Technique          | Application in TheLastUpload                                                        |
 | ------------------------------ | ----------------------------------------------------------------------------------- |
-| **Finite State Machine (FSM)** | Manages game states such as Main Menu, Gameplay, Pause, and Game Over.              |
-| **Collision Detection**        | Detects interactions between the player and objects in the environment.             |
-| **Raycasting**                 | Identifies terminals, objects, and interactive elements in front of the player.     |
-| **Event-Driven Programming**   | Connects UI buttons, player interactions, and game events.                          |
-| **Puzzle-Solving Logic**       | Validates memory-hacking puzzles and determines whether the player has solved them. |
-| **Scene Transition Logic**     | Handles movement between the main menu, cinematic sequences, and gameplay scenes.   |
-| **Animation State Machine**    | Controls character animations such as idle, walking, and running.                   |
+| ###**Finite State Machine (FSM)** | Manages game states such as Main Menu, Gameplay, Pause, and Game Over.              |
+| ###**Collision Detection**        | Detects interactions between the player and objects in the environment.             |
+| ###**Raycasting**                 | Identifies terminals, objects, and interactive elements in front of the player.     |
+| ###**Event-Driven Programming**   | Connects UI buttons, player interactions, and game events.                          |
+| ###**Puzzle-Solving Logic**       | Validates memory-hacking puzzles and determines whether the player has solved them. |
+| ###**Scene Transition Logic**     | Handles movement between the main menu, cinematic sequences, and gameplay scenes.   |
+| ###**Animation State Machine**    | Controls character animations such as idle, walking, and running.                   |
 <br/>
 ---
 ##  GAMEPLAY MECHANICS
