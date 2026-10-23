@@ -44,9 +44,9 @@
 |  10 | [Development Roadmap](#-development-roadmap) | Current and planned features       |
 |  11 | [Team](#-team)                               | The people behind the project      |
 
----
 
-## 🌃 GAME OVERVIEW
+
+##  GAME OVERVIEW
 
 > **In a future where memories can be uploaded, what happens when the original person is lost?**
 
