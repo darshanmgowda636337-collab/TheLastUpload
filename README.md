@@ -27,7 +27,7 @@
 
 ## Table of Contents
 
-1. project-overview
+1. [problem overview](project-overview)
 2. [Problem Statement](#problem-statement)
 3. [Our Solution](#our-solution)
 4. [Story and Lore](#story-and-lore)
