@@ -4,139 +4,117 @@
 
 <br/>
 
-#  # THELASTUPLOAD
+# THELASTUPLOAD
 ### Break the Simulation. Recover the Truth.
 
-**Genre:** 2D Cyberpunk Puzzle Adventure  
-**Engine:** Unity  
-**Theme:** Reality • Technology • Deception
+**A 2D Cyberpunk Puzzle Adventure About Memory, Identity, and Digital Deception**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Genre-2D%20Cyberpunk-ff00cc?style=for-the-badge" alt="Genre">
+  <img src="https://img.shields.io/badge/Engine-Unity-00e5ff?style=for-the-badge" alt="Engine">
+  <img src="https://img.shields.io/badge/Gameplay-2D%20Adventure-8a2be2?style=for-the-badge" alt="Gameplay">
+  <img src="https://img.shields.io/badge/Status-In%20Development-00ff99?style=for-the-badge" alt="Status">
+</p>
+
+| Project Detail | Description |
+|---|---|
+| Genre | 2D Cyberpunk Puzzle Adventure |
+| Engine | Unity |
+| Programming Language | C# |
+| Target Platform | Windows PC |
+| Themes | Reality, Technology, Memory, Identity, Deception |
+
+---
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Problem Statement](#problem-statement)
+3. [Our Solution](#our-solution)
+4. [Story and Lore](#story-and-lore)
+5. [Core Gameplay](#core-gameplay)
+6. [Key Features](#key-features)
+7. [Player Controls](#player-controls)
+8. [Gameplay Systems](#gameplay-systems)
+9. [Algorithms and Techniques](#algorithms-and-techniques)
+10. [Puzzle Design](#puzzle-design)
+11. [Level Design](#level-design)
+12. [Player Experience](#player-experience)
+13. [Visual Direction](#visual-direction)
+14. [Audio Direction](#audio-direction)
+15. [User Interface](#user-interface)
+16. [Technical Implementation](#technical-implementation)
+17. [Technology Stack](#technology-stack)
+18. [Project Structure](#project-structure)
+19. [Gameplay Loop](#gameplay-loop)
+20. [Development Roadmap](#development-roadmap)
+21. [Installation and Setup](#installation-and-setup)
+22. [Build and Testing](#build-and-testing)
+23. [Judging Demonstration](#judging-demonstration)
+24. [Innovation](#innovation)
+25. [Success Criteria](#success-criteria)
+26. [Future Improvements](#future-improvements)
+27. [Credits and License](#credits-and-license)
+28. [Conclusion](#conclusion)
+
+---
 
 ## Project Overview
 
-TheLastUpload is a 2D cyberpunk, story-driven game set inside a corrupted digital simulation. An advanced system controls information, manipulates perception, and hides the truth.
+TheLastUpload is a 2D cyberpunk, story-driven puzzle-adventure game set inside a corrupted digital simulation.
 
-Players explore the digital world, hack terminals, solve logic puzzles, recover lost memories, and manipulate the environment to uncover the truth behind the simulation.
+The world appears to be a controlled digital environment maintained by an advanced system. Information is manipulated, memories are fragmented, and the boundary between reality and artificial reconstruction is deliberately obscured.
 
-**Core objective:** Break the simulation and recover the last hidden memory.
+The player enters this environment to investigate irregularities, access restricted systems, solve logic-based puzzles, and recover lost memory fragments.
 
-## Core Gameplay
+As the investigation progresses, the player discovers that the simulation may be concealing information that the system was designed to suppress.
 
-1. Explore a futuristic 2D environment.
-2. Discover corrupted terminals and hidden anomalies.
-3. Interact with digital systems.
-4. Solve logic and memory puzzles.
-5. Unlock blocked paths by manipulating the simulation.
-6. Collect memory fragments.
-7. Uncover the truth through narrative discoveries.
+### Core Objective
 
-## Key Features
+**Break the simulation and recover the last hidden memory.**
 
-### 2D Exploration
-Navigate the cyberpunk environment using the existing player character and movement system.
+### Game Pillars
 
-### Digital Hacking
-Interact with terminals and solve logic-based puzzles to access restricted systems.
+- **Exploration:** Navigate the cyberpunk world and discover hidden information.
+- **Investigation:** Examine terminals, environmental clues, and corrupted data.
+- **Puzzle-Solving:** Solve logic challenges to access restricted systems.
+- **Reality Manipulation:** Change elements of the environment through puzzle solutions.
+- **Narrative Discovery:** Reconstruct the truth through recovered memories and digital records.
 
-### Reality Manipulation
-Puzzle solutions change the environment by unlocking barriers, activating platforms, and revealing hidden paths.
+### Project Vision
 
-### Memory Reconstruction
-Collect fragmented data to uncover the story behind the corrupted simulation.
+TheLastUpload combines accessible 2D movement with meaningful puzzle interactions and a mystery-driven narrative.
 
-### Story-Driven Progression
-Discover the truth through environmental clues, terminal messages, and recovered memories.
+Every area should give players opportunities to investigate the world, discover inconsistencies, and understand the consequences of interacting with the simulation.
 
-## Player Controls
+---
 
-| Input | Action |
+## Problem Statement
+
+### The Challenge: A World Where Information Cannot Be Trusted
+
+In a world controlled by digital systems, information can be altered, hidden, duplicated, or presented in misleading ways.
+
+TheLastUpload explores this idea through a fictional simulation in which the player cannot immediately trust the environment or the information provided by its systems.
+
+The central challenge is to discover the truth while operating inside the very system that conceals it.
+
+### Key Questions
+
+- Can a digital system accurately preserve a person's memories?
+- How can the player distinguish genuine information from manipulated data?
+- What happens when a system controls both the world and the information available to its inhabitants?
+- Can the rules of a simulation be used against the system that created them?
+- If a memory can be copied or altered, what makes it authentic?
+
+### Gameplay Challenges
+
+| Challenge | Proposed Solution |
 |---|---|
-| A / Left Arrow | Move left |
-| D / Right Arrow | Move right |
-| Space | Jump, if supported |
-| E | Interact with terminals |
-| Escape | Pause, if implemented |
+| Restricted Access | Solve terminal puzzles to unlock systems and routes. |
+| Hidden Information | Discover environmental clues and memory fragments. |
+| Corrupted Data | Investigate anomalies in the simulation. |
+| Environmental Obstacles | Activate mechanisms and open blocked paths. |
+| Narrative Uncertainty | Reconstruct the story through recovered information. |
+| Player Progression | Unlock new areas by completing objectives. |
 
-## Technical Implementation
-
-- **Engine:** Unity
-- **Gameplay:** 2D
-- **Player:** Existing character sprite
-- **Movement:** Keyboard-controlled
-- **Physics:** Rigidbody2D and Collider2D, where required
-- **Camera:** Orthographic
-- **Animation:** Idle and walking, if suitable frames exist
-- **Interaction:** Terminal and object interaction
-- **Puzzle System:** Logic-based hacking challenges
-- **Environment:** Puzzle-driven world changes
-
-## Gameplay Loop
-
-Explore the simulation  
-→ Discover a terminal  
-→ Solve a hacking puzzle  
-→ Change the environment  
-→ Recover a memory fragment  
-→ Unlock the next area  
-→ Reveal the truth
-
-## Project Structure
-
-```text
-Assets/
-├── Art/
-│   ├── Characters/
-│   └── Backgrounds/
-├── Animations/
-├── Prefabs/
-├── Scenes/
-└── Scripts/
-    └── PlayerMovement.cs
-```
-
-## Development Roadmap
-
-- [ ] Implement reliable 2D player movement.
-- [ ] Configure collision and environment physics.
-- [ ] Set up the camera and level.
-- [ ] Implement terminal interaction.
-- [ ] Create a functional hacking puzzle.
-- [ ] Connect puzzle completion to environment changes.
-- [ ] Implement memory collection and story progression.
-- [ ] Build and test a standalone Windows version.
-
-## Innovation
-
-TheLastUpload makes hacking part of the playable world. Solving a puzzle is not merely a menu interaction; it changes the environment and enables progression.
-
-The player learns to manipulate the rules of the simulation instead of simply accepting them.
-
-## Judging Demonstration
-
-The intended demonstration is a complete gameplay sequence:
-
-1. The player discovers a blocked route.
-2. A nearby terminal provides a hacking challenge.
-3. The player solves the puzzle.
-4. The blocked route opens.
-5. The player discovers a memory fragment.
-6. A story reveal advances the mission.
-
-This sequence demonstrates exploration, logic, interaction, environmental feedback, and narrative design.
-
-## Success Criteria
-
-- Responsive player controls.
-- Stable collision and physics.
-- Clear player objectives.
-- Functional puzzle interaction.
-- Visible consequences for puzzle solutions.
-- Meaningful narrative progression.
-- A playable and tested Windows build.
-
-## Conclusion
-
-TheLastUpload explores the boundary between reality and digital deception.
-
-Through 2D exploration, hacking, puzzle-solving, and memory reconstruction, players uncover the truth hidden within a controlled simulation.
-
-**Break the simulation. Recover the truth. Decide what survives the last upload.**
