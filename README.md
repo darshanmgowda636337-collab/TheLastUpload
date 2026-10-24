@@ -17,7 +17,6 @@
 </p>
 
 | Project Detail | Description |
-|---|---|
 | Genre | 2D Cyberpunk Puzzle Adventure |
 | Engine | Unity |
 | Programming Language | C# |
@@ -28,7 +27,7 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
+1. #project-overview
 2. [Problem Statement](#problem-statement)
 3. [Our Solution](#our-solution)
 4. [Story and Lore](#story-and-lore)
