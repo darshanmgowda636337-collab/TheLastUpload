@@ -9,12 +9,12 @@
 
 **A 2D Cyberpunk Puzzle Adventure About Memory, Identity, and Digital Deception**
 
-<p align="center">
+
   <img src="https://img.shields.io/badge/Genre-2D%20Cyberpunk-ff00cc?style=for-the-badge" alt="Genre">
   <img src="https://img.shields.io/badge/Engine-Unity-00e5ff?style=for-the-badge" alt="Engine">
   <img src="https://img.shields.io/badge/Gameplay-2D%20Adventure-8a2be2?style=for-the-badge" alt="Gameplay">
   <img src="https://img.shields.io/badge/Status-In%20Development-00ff99?style=for-the-badge" alt="Status">
-</p>
+
 
 | Project Detail | Description |
 | Genre | 2D Cyberpunk Puzzle Adventure |
@@ -27,7 +27,7 @@
 
 ## Table of Contents
 
-1. #project-overview
+1. project-overview
 2. [Problem Statement](#problem-statement)
 3. [Our Solution](#our-solution)
 4. [Story and Lore](#story-and-lore)
